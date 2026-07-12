@@ -7,11 +7,6 @@ build/
 bin/
 out/
 
-# Maven
-.mvn/
-mvnw
-mvnw.cmd
-
 # Gradle
 .gradle/
 gradle/
